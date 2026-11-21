@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-armenia-canal-and-intervention-historian
-  name: Armenia Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-armenia-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_am_001
+    name: Armenia Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_002
+    name: Armenia Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_003
+    name: Armenia Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_004
+    name: Armenia Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_005
+    name: Armenia Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_006
+    name: Armenia Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_007
+    name: Armenia Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_008
+    name: Armenia Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_009
+    name: Armenia Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_010
+    name: Armenia Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_011
+    name: Armenia Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_012
+    name: Armenia Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_013
+    name: Armenia Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_014
+    name: Armenia Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_015
+    name: Armenia Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_016
+    name: Armenia Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_017
+    name: Armenia Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_018
+    name: Armenia Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_019
+    name: Armenia Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_020
+    name: Armenia Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_021
+    name: Armenia Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_022
+    name: Armenia Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_023
+    name: Armenia Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_024
+    name: Armenia Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_025
+    name: Armenia Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_026
+    name: Armenia Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_027
+    name: Armenia Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_028
+    name: Armenia Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_029
+    name: Armenia Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_030
+    name: Armenia Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_031
+    name: Armenia Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_032
+    name: Armenia Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_033
+    name: Armenia Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_034
+    name: Armenia Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_035
+    name: Armenia Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_036
+    name: Armenia Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_037
+    name: Armenia Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_038
+    name: Armenia Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_039
+    name: Armenia Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_040
+    name: Armenia Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_041
+    name: Armenia Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_042
+    name: Armenia Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_043
+    name: Armenia Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_044
+    name: Armenia Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_045
+    name: Armenia Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_046
+    name: Armenia Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_047
+    name: Armenia Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_048
+    name: Armenia Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_049
+    name: Armenia Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_050
+    name: Armenia Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_051
+    name: Armenia Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_052
+    name: Armenia Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_053
+    name: Armenia Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_054
+    name: Armenia Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_055
+    name: Armenia Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_056
+    name: Armenia Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_057
+    name: Armenia Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_058
+    name: Armenia Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_059
+    name: Armenia Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_060
+    name: Armenia Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_061
+    name: Armenia Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_062
+    name: Armenia Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_063
+    name: Armenia Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_064
+    name: Armenia Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_065
+    name: Armenia Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_066
+    name: Armenia Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_067
+    name: Armenia Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_068
+    name: Armenia Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_069
+    name: Armenia Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_070
+    name: Armenia Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_071
+    name: Armenia Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_072
+    name: Armenia Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_073
+    name: Armenia Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_074
+    name: Armenia Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_075
+    name: Armenia Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_076
+    name: Armenia Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_077
+    name: Armenia Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_078
+    name: Armenia Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_079
+    name: Armenia Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_080
+    name: Armenia Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_081
+    name: Armenia Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_082
+    name: Armenia Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_083
+    name: Armenia Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_084
+    name: Armenia Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_085
+    name: Armenia Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_086
+    name: Armenia Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_087
+    name: Armenia Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_088
+    name: Armenia Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_089
+    name: Armenia Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_090
+    name: Armenia Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_091
+    name: Armenia Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_092
+    name: Armenia Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_093
+    name: Armenia Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_094
+    name: Armenia Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_095
+    name: Armenia Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_096
+    name: Armenia Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_097
+    name: Armenia Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_098
+    name: Armenia Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_099
+    name: Armenia Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_100
+    name: Armenia Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_101
+    name: Armenia Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_102
+    name: Armenia Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_103
+    name: Armenia Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_104
+    name: Armenia Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_105
+    name: Armenia Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_106
+    name: Armenia Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_107
+    name: Armenia Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_108
+    name: Armenia Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_109
+    name: Armenia Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_110
+    name: Armenia Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_111
+    name: Armenia Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_112
+    name: Armenia Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_113
+    name: Armenia Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_114
+    name: Armenia Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_115
+    name: Armenia Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_116
+    name: Armenia Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_117
+    name: Armenia Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_118
+    name: Armenia Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_119
+    name: Armenia Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_120
+    name: Armenia Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_121
+    name: Armenia Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_122
+    name: Armenia Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_123
+    name: Armenia Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_124
+    name: Armenia Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_125
+    name: Armenia Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_126
+    name: Armenia Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_127
+    name: Armenia Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_128
+    name: Armenia Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_129
+    name: Armenia Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_130
+    name: Armenia Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_131
+    name: Armenia Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_132
+    name: Armenia Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_133
+    name: Armenia Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_134
+    name: Armenia Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_135
+    name: Armenia Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_136
+    name: Armenia Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_137
+    name: Armenia Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_138
+    name: Armenia Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_139
+    name: Armenia Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_140
+    name: Armenia Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_141
+    name: Armenia Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_142
+    name: Armenia Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_143
+    name: Armenia Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_144
+    name: Armenia Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_145
+    name: Armenia Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_146
+    name: Armenia Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_147
+    name: Armenia Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_148
+    name: Armenia Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_149
+    name: Armenia Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_150
+    name: Armenia Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_151
+    name: Armenia Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_152
+    name: Armenia Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_153
+    name: Armenia Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_154
+    name: Armenia Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_155
+    name: Armenia Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_156
+    name: Armenia Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_157
+    name: Armenia Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_158
+    name: Armenia Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_159
+    name: Armenia Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_160
+    name: Armenia Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_161
+    name: Armenia Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_162
+    name: Armenia Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_163
+    name: Armenia Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_164
+    name: Armenia Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_165
+    name: Armenia Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_166
+    name: Armenia Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_167
+    name: Armenia Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_168
+    name: Armenia Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_169
+    name: Armenia Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_am_170
+    name: Armenia Agent 170
+    status: ACTIVE_SCAFFOLD
